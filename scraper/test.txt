@@ -1,0 +1,55 @@
+[<td valign="bottom"><table><tr><td><a href="/pokedex-swsh/dragonite/"><img class="pkmn" loading="lazy" src="/swordshield/pokemon/small/149.png" width="100"/></a></td></tr>
+<tr><td align="center"><a href="/pokedex-swsh/dragonite/">Dragonite</a></td></tr>
+<tr><td align="center"><a href="/pokedex-swsh/dragon.shtml"><img border="0" loading="lazy" src="/pokedex-bw/type/dragon.gif"/></a><a href="/pokedex-swsh/flying.shtml"><img border="0" loading="lazy" src="/pokedex-bw/type/flying.gif"/></a></td></tr>
+<td class="bor"><b>Ability</b>:
+<br/><a href="/abilitydex/multiscale.shtml">Multiscale</a></td></table></td>, <td valign="bottom"><table><tr><td><a href="/pokedex-swsh/heatran/"><img class="pkmn" loading="lazy" src="/swordshield/pokemon/small/485.png" width="100"/></a></td></tr>
+<tr><td align="center"><a href="/pokedex-swsh/heatran/">Heatran</a></td></tr>
+<tr><td align="center"><a href="/pokedex-swsh/fire.shtml"><img border="0" loading="lazy" src="/pokedex-bw/type/fire.gif"/></a><a href="/pokedex-swsh/steel.shtml"><img border="0" loading="lazy" src="/pokedex-bw/type/steel.gif"/></a></td></tr>
+<td class="bor"><b>Ability</b>:
+<br/><a href="/abilitydex/flashfire.shtml">Flash Fire</a></td>
+<td class="bor" valign="top"><b>Attacks</b>:<br/><a href="/attackdex-swsh/magmastorm.shtml">Magma Storm</a><br/><a href="/attackdex-swsh/flashcannon.shtml">Flash Cannon</a><br/><a href="/attackdex-swsh/earthpower.shtml">Earth Power</a><br/><a href="/attackdex-swsh/dragonpulse.shtml">Dragon Pulse</a><br/></td><tr>
+<td class="bor"><b>Hold Item</b>:<br/><a href="/itemdex/focussash.shtml"><img class="pkmn" loading="lazy" src="/itemdex/sprites/focussash.png"/><br/>Focus Sash</a></td></tr>
+</table></td>, <td valign="bottom"><table><tr><td><a href="/pokedex-swsh/cresselia/"><img class="pkmn" loading="lazy" src="/swordshield/pokemon/small/488.png" width="100"/></a></td></tr>
+<tr><td align="center"><a href="/pokedex-swsh/cresselia/">Cresselia</a></td></tr>
+<tr><td align="center"><a href="/pokedex-swsh/psychic.shtml"><img border="0" loading="lazy" src="/pokedex-bw/type/psychic.gif"/></a></td></tr>
+<td class="bor"><b>Ability</b>:
+<br/><a href="/abilitydex/levitate.shtml">Levitate</a></td>
+<td class="bor" valign="top"><b>Attacks</b>:<br/><a href="/attackdex-swsh/lunardance.shtml">Lunar Dance</a><br/><a href="/attackdex-swsh/thunderwave.shtml">Thunder Wave</a><br/><a href="/attackdex-swsh/moonlight.shtml">Moonlight</a><br/><a href="/attackdex-swsh/icebeam.shtml">Ice Beam</a><br/></td><tr>
+<td class="bor"><b>Hold Item</b>:<br/><a href="/itemdex/sitrusberry.shtml"><img class="pkmn" loading="lazy" src="/itemdex/sprites/sitrusberry.png"/><br/>Sitrus Berry</a></td></tr>
+</table></td>, <td valign="bottom"><table><tr><td><a href="/pokedex-swsh/regigigas/"><img class="pkmn" loading="lazy" src="/swordshield/pokemon/small/486.png" width="100"/></a></td></tr>
+<tr><td align="center"><a href="/pokedex-swsh/regigigas/">Regigigas</a></td></tr>
+<tr><td align="center"><a href="/pokedex-swsh/normal.shtml"><img border="0" loading="lazy" src="/pokedex-bw/type/normal.gif"/></a></td></tr>
+<td class="bor"><b>Ability</b>:
+<br/><a href="/abilitydex/slowstart.shtml">Slow Start</a></td></table></td>, <td valign="bottom"><table><tr><td><a href="/pokedex-swsh/dragonite/"><img class="pkmn" loading="lazy" src="/swordshield/pokemon/small/149.png" width="100"/></a></td></tr>
+<tr><td align="center"><a href="/pokedex-swsh/dragonite/">Dragonite</a></td></tr>
+<tr><td align="center"><a href="/pokedex-swsh/dragon.shtml"><img border="0" loading="lazy" src="/pokedex-bw/type/dragon.gif"/></a><a href="/pokedex-swsh/flying.shtml"><img border="0" loading="lazy" src="/pokedex-bw/type/flying.gif"/></a></td></tr>
+<td class="bor"><b>Ability</b>:
+<br/><a href="/abilitydex/multiscale.shtml">Multiscale</a></td>
+<td class="bor" valign="top"><b>Attacks</b>:<br/><a href="/attackdex-swsh/firepunch.shtml">Fire Punch</a><br/><a href="/attackdex-swsh/outrage.shtml">Outrage</a><br/><a href="/attackdex-swsh/earthquake.shtml">Earthquake</a><br/><a href="/attackdex-swsh/thunderpunch.shtml">Thunder Punch</a><br/></td><tr>
+<td class="bor"><b>Hold Item</b>:<br/><a href="/itemdex/choiceband.shtml"><img class="pkmn" loading="lazy" src="/itemdex/sprites/choiceband.png"/><br/>Choice Band</a></td></tr>
+</table></td>, <td valign="bottom"><table><tr><td><a href="/pokedex-swsh/milotic/"><img class="pkmn" loading="lazy" src="/swordshield/pokemon/small/350.png" width="100"/></a></td></tr>
+<tr><td align="center"><a href="/pokedex-swsh/milotic/">Milotic</a></td></tr>
+<tr><td align="center"><a href="/pokedex-swsh/water.shtml"><img border="0" loading="lazy" src="/pokedex-bw/type/water.gif"/></a></td></tr>
+<td class="bor"><b>Ability</b>:
+<br/><a href="/abilitydex/marvelscale.shtml">Marvel Scale</a></td>
+<td class="bor" valign="top"><b>Attacks</b>:<br/><a href="/attackdex-swsh/scald.shtml">Scald</a><br/><a href="/attackdex-swsh/icywind.shtml">Icy Wind</a><br/><a href="/attackdex-swsh/mirrorcoat.shtml">Mirror Coat</a><br/><a href="/attackdex-swsh/recover.shtml">Recover</a><br/></td><tr>
+<td class="bor"><b>Hold Item</b>:<br/><a href="/itemdex/flameorb.shtml"><img class="pkmn" loading="lazy" src="/itemdex/sprites/flameorb.png"/><br/>Flame Orb</a></td></tr>
+</table></td>, <td valign="bottom"><table><tr><td><a href="/pokedex-swsh/heatran/"><img class="pkmn" loading="lazy" src="/swordshield/pokemon/small/485.png" width="100"/></a></td></tr>
+<tr><td align="center"><a href="/pokedex-swsh/heatran/">Heatran</a></td></tr>
+<tr><td align="center"><a href="/pokedex-swsh/fire.shtml"><img border="0" loading="lazy" src="/pokedex-bw/type/fire.gif"/></a><a href="/pokedex-swsh/steel.shtml"><img border="0" loading="lazy" src="/pokedex-bw/type/steel.gif"/></a></td></tr>
+<td class="bor"><b>Ability</b>:
+<br/><a href="/abilitydex/flashfire.shtml">Flash Fire</a></td></table></td>, <td valign="bottom"><table><tr><td><a href="/pokedex-swsh/rhyperior/"><img class="pkmn" loading="lazy" src="/swordshield/pokemon/small/464.png" width="100"/></a></td></tr>
+<tr><td align="center"><a href="/pokedex-swsh/rhyperior/">Rhyperior</a></td></tr>
+<tr><td align="center"><a href="/pokedex-swsh/ground.shtml"><img border="0" loading="lazy" src="/pokedex-bw/type/ground.gif"/></a><a href="/pokedex-swsh/rock.shtml"><img border="0" loading="lazy" src="/pokedex-bw/type/rock.gif"/></a></td></tr>
+<td class="bor"><b>Ability</b>:
+<br/><a href="/abilitydex/solidrock.shtml">Solid Rock</a></td>
+<td class="bor" valign="top"><b>Attacks</b>:<br/><a href="/attackdex-swsh/earthquake.shtml">Earthquake</a><br/><a href="/attackdex-swsh/rockblast.shtml">Rock Blast</a><br/><a href="/attackdex-swsh/icepunch.shtml">Ice Punch</a><br/><a href="/attackdex-swsh/horndrill.shtml">Horn Drill</a><br/></td><tr>
+<td class="bor"><b>Hold Item</b>:<br/><a href="/itemdex/sitrusberry.shtml"><img class="pkmn" loading="lazy" src="/itemdex/sprites/sitrusberry.png"/><br/>Sitrus Berry</a></td></tr>
+</table></td>, <td valign="bottom"><table><tr><td><a href="/pokedex-swsh/dragonite/"><img class="pkmn" loading="lazy" src="/swordshield/pokemon/small/149.png" width="100"/></a></td></tr>
+<tr><td align="center"><a href="/pokedex-swsh/dragonite/">Dragonite</a></td></tr>
+<tr><td align="center"><a href="/pokedex-swsh/dragon.shtml"><img border="0" loading="lazy" src="/pokedex-bw/type/dragon.gif"/></a><a href="/pokedex-swsh/flying.shtml"><img border="0" loading="lazy" src="/pokedex-bw/type/flying.gif"/></a></td></tr>
+<td class="bor"><b>Ability</b>:
+<br/><a href="/abilitydex/multiscale.shtml">Multiscale</a></td>
+<td class="bor" valign="top"><b>Attacks</b>:<br/><a href="/attackdex-swsh/dragondance.shtml">Dragon Dance</a><br/><a href="/attackdex-swsh/outrage.shtml">Outrage</a><br/><a href="/attackdex-swsh/earthquake.shtml">Earthquake</a><br/><a href="/attackdex-swsh/thunderpunch.shtml">Thunder Punch</a><br/></td><tr>
+<td class="bor"><b>Hold Item</b>:<br/><a href="/itemdex/lumberry.shtml"><img class="pkmn" loading="lazy" src="/itemdex/sprites/lumberry.png"/><br/>Lum Berry</a></td></tr>
+</table></td>]
