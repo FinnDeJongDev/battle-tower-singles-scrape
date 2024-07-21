@@ -1,0 +1,135 @@
+Absorb Bulb: Increases Special Attack when hit by a Water-type move.
+Adamant Orb: Boosts the power of Dialga's Dragon- and Steel-type moves.
+Adrenaline Orb: Increases Speed if the holder is intimidated.
+Air Balloon: Grants immunity to Ground-type moves until hit.
+Amulet Coin: Doubles prize money received after battle.
+Assault Vest: Boosts Special Defense but prevents the use of status moves.
+Big Root: Increases the HP gained from HP-stealing moves.
+Binding Band: Increases the damage dealt by binding moves.
+Black Belt: Boosts the power of Fighting-type moves.
+Black Glasses: Boosts the power of Dark-type moves.
+Black Sludge: Gradually restores HP of Poison-type Pokémon; damages others.
+Blue Orb: Triggers Primal Reversion for Kyogre.
+Bright Powder: Lowers the opponent's accuracy.
+Bug Gem: Boosts the power of a single Bug-type move, then disappears.
+Burn Drive: Changes the type of Genesect's Techno Blast to Fire.
+Cell Battery: Increases Attack when hit by an Electric-type move.
+Charcoal: Boosts the power of Fire-type moves.
+Chesto Berry: Awakens the holder from sleep.
+Chill Drive: Changes the type of Genesect's Techno Blast to Ice.
+Choice Band: Boosts Attack but only allows the use of one move.
+Choice Scarf: Boosts Speed but only allows the use of one move.
+Choice Specs: Boosts Special Attack but only allows the use of one move.
+Cleanse Tag: Lowers the wild Pokémon encounter rate.
+Damp Rock: Extends the duration of Rain Dance.
+Dark Gem: Boosts the power of a single Dark-type move, then disappears.
+Deep Sea Scale: Boosts the Special Defense of Clamperl.
+Deep Sea Tooth: Boosts the Special Attack of Clamperl.
+Destiny Knot: If the holder becomes infatuated, the other Pokémon also becomes infatuated.
+Dragon Fang: Boosts the power of Dragon-type moves.
+Dragon Gem: Boosts the power of a single Dragon-type move, then disappears.
+Dread Plate: Boosts the power of Dark-type moves.
+Eject Button: Switches the holder out of battle when hit.
+Eject Pack: Switches the holder out of battle if its stats are lowered.
+Electric Seed: Boosts Defense when Electric Terrain is active.
+Everstone: Prevents the holder from evolving.
+Eviolite: Boosts Defense and Special Defense of Pokémon that can still evolve.
+Expert Belt: Boosts the power of super effective moves.
+Fairy Gem: Boosts the power of a single Fairy-type move, then disappears.
+Fighting Gem: Boosts the power of a single Fighting-type move, then disappears.
+Fire Gem: Boosts the power of a single Fire-type move, then disappears.
+Flame Orb: Burns the holder at the end of the turn.
+Flame Plate: Boosts the power of Fire-type moves.
+Float Stone: Halves the holder's weight.
+Flying Gem: Boosts the power of a single Flying-type move, then disappears.
+Focus Band: May prevent the holder from fainting in one hit.
+Focus Sash: Prevents the holder from fainting in one hit, leaving it with 1 HP.
+Full Incense: Makes the holder move last in its priority bracket.
+Ghost Gem: Boosts the power of a single Ghost-type move, then disappears.
+Grass Gem: Boosts the power of a single Grass-type move, then disappears.
+Grassy Seed: Boosts Defense when Grassy Terrain is active.
+Grip Claw: Extends the duration of binding moves.
+Ground Gem: Boosts the power of a single Ground-type move, then disappears.
+Haban Berry: Weakens a super effective Dragon-type move against the holder.
+Hard Stone: Boosts the power of Rock-type moves.
+Heat Rock: Extends the duration of Sunny Day.
+Heavy-Duty Boots: Protects the holder from hazards on the battlefield.
+Helix Fossil: Revives into Omanyte.
+Icy Rock: Extends the duration of Hail.
+Iron Ball: Lowers Speed and makes Flying-type Pokémon susceptible to Ground moves.
+Iron Plate: Boosts the power of Steel-type moves.
+King's Rock: May cause the opponent to flinch when the holder inflicts damage.
+Lagging Tail: Makes the holder move last in its priority bracket.
+Lax Incense: Lowers the opponent's accuracy.
+Leftovers: Gradually restores HP in battle.
+Life Orb: Boosts the power of moves but the holder takes damage with each hit.
+Light Ball: Doubles Pikachu's Attack and Special Attack.
+Light Clay: Extends the duration of Light Screen and Reflect.
+Love Ball: Easier to catch Pokémon of the opposite gender.
+Lucky Egg: Increases the holder's experience points gained in battle.
+Lucky Punch: Increases Chansey's critical hit ratio.
+Lum Berry: Heals any status condition once.
+Lustrous Orb: Boosts the power of Palkia's Dragon- and Water-type moves.
+Macho Brace: Doubles the holder's effort values gained from battle.
+Magnet: Boosts the power of Electric-type moves.
+Mental Herb: Cures infatuation, taunting, torment, and other mental effects.
+Metal Coat: Boosts the power of Steel-type moves.
+Metronome: Boosts the power of a move used consecutively.
+Miracle Seed: Boosts the power of Grass-type moves.
+Misty Seed: Boosts Special Defense when Misty Terrain is active.
+Muscle Band: Boosts the power of the holder's physical moves.
+Mystic Water: Boosts the power of Water-type moves.
+Never-Melt Ice: Boosts the power of Ice-type moves.
+Normal Gem: Boosts the power of a single Normal-type move, then disappears.
+Occa Berry: Weakens a super effective Fire-type move against the holder.
+Odd Incense: Boosts the power of Psychic-type moves.
+Passho Berry: Weakens a super effective Water-type move against the holder.
+Payapa Berry: Weakens a super effective Psychic-type move against the holder.
+Pecha Berry: Heals the holder from poisoning.
+Persim Berry: Heals the holder from confusion.
+Petaya Berry: Increases Special Attack when HP is low.
+Pixie Plate: Boosts the power of Fairy-type moves.
+Poison Barb: Boosts the power of Poison-type moves.
+Power Herb: Allows immediate use of a move that charges on the first turn.
+Protective Pads: Prevents contact effects when using moves.
+Psychic Seed: Boosts Special Defense when Psychic Terrain is active.
+Quick Claw: Occasionally allows the holder to move first in battle.
+Quick Powder: Doubles Ditto's Speed.
+Rawst Berry: Heals the holder from a burn.
+Razor Claw: Increases the holder's critical hit ratio.
+Razor Fang: May cause the opponent to flinch when the holder inflicts damage.
+Red Card: Forces the opponent to switch out if it hits the holder.
+Ring Target: Removes immunities granted by the holder's typing.
+Rock Gem: Boosts the power of a single Rock-type move, then disappears.
+Rock Incense: Boosts the power of Rock-type moves.
+Rocky Helmet: Damages the attacker upon contact.
+Room Service: Lowers Speed when Trick Room is active.
+Scope Lens: Increases the holder's critical hit ratio.
+Sharp Beak: Boosts the power of Flying-type moves.
+Shell Bell: Restores HP based on the damage dealt to the opponent.
+Shuca Berry: Weakens a super effective Ground-type move against the holder.
+Silk Scarf: Boosts the power of Normal-type moves.
+Silver Powder: Boosts the power of Bug-type moves.
+Sitrus Berry: Restores HP when it drops below half.
+Smooth Rock: Extends the duration of Sandstorm.
+Snowball: Increases Attack when hit by an Ice-type move.
+Soft Sand: Boosts the power of Ground-type moves.
+Soul Dew: Boosts the power of Latios and Latias's Psychic- and Dragon-type moves.
+Spell Tag: Boosts the power of Ghost-type moves.
+Starf Berry: Increases a random stat when HP is low.
+Sticky Barb: Damages the holder each turn; can transfer on contact.
+Stone Plate: Boosts the power of Rock-type moves.
+Tanga Berry: Weakens a super effective Bug-type move against the holder.
+Thick Club: Doubles Cubone or Marowak's Attack.
+Toxic Orb: Badly poisons the holder at the end of the turn.
+Toxic Plate: Boosts the power of Poison-type moves.
+Twisted Spoon: Boosts the power of Psychic-type moves.
+Utility Umbrella: Negates weather-related effects.
+Wacan Berry: Weakens a super effective Electric-type move against the holder.
+Weakness Policy: Increases Attack and Special Attack when hit by a super effective move.
+White Herb: Restores any lowered stat.
+Wide Lens: Increases the holder's accuracy.
+Wise Glasses: Boosts the power of special moves.
+Yache Berry: Weakens a super effective Ice-type move against the holder.
+Zap Plate: Boosts the power of Electric-type moves.
+Zoom Lens: Increases accuracy if the holder moves after the target.
